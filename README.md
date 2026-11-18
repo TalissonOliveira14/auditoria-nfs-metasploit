@@ -2,7 +2,7 @@
 
 * **Disciplina:** Segurança da Informação (UFRN / IMD)
 * **Professor:** Ramon Fontes
-* **Aluno:** Talisson Pereira de Oliveira
+* **Aluno:** Talisson Pereira de Oliveira e Thiago Patricio da Silva
 * **Data de Entrega:** 18/11/2026
 
 ---
